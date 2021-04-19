@@ -47,7 +47,7 @@ cc_prebuilt_library_shared {
 android_app_import {
 	name: "WfdService",
 	owner: "asus",
-	apk: "proprietary/priv-app/WfdService/WfdService.apk",
+	apk: "proprietary/system/priv-app/WfdService/WfdService.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
